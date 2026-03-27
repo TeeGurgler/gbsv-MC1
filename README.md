@@ -1,4 +1,4 @@
-# gbsv-MC1 – Sampling Theorem
+# gbsv-MC1 - Sampling Theorem
 Jupyter notebooks exploring the Sampling Theorem applied to Swiss grid load data.
 ## Requirements
 - Python 3.x
